@@ -1,0 +1,9 @@
+github.com
+
+yachmen = ÿקלוםü
+427 = 837
+hello world!
+
+https://informatics.zoom.us/j/83730926908?pwd=RXdmcWhXcUl5OXJvZUZCRFJRaEZuQT09
+
+[SerializeField] float fhghfhgfhgfg = 99183.0f;
